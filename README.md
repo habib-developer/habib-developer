@@ -10,7 +10,7 @@
 
 I'm a passionate software engineer with 7+ years of experience in creating web applications and software solutions. My mission is to build elegant, efficient, and user-friendly software that solves real-world problems.
 
-🔭 I’m currently working on [Your Current Project].
+🔭 I’m currently working on [TalkHomeApp](https://app.talkhome.co.uk/).
 🌱 I’m continuously learning and staying up-to-date with the latest technologies.
 
 **Languages and Tools:**
