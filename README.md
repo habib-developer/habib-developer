@@ -21,8 +21,6 @@ I'm a passionate software engineer with 7+ years of experience in creating web a
 
 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habib-developer&show_icons=true&theme=github-light)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-developer&theme=github-light)
 
 **Connect with Me:**
